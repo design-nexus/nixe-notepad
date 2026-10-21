@@ -1,0 +1,10 @@
+{
+  "application": "notepad",
+  "directory": "notepad",
+  "packages": [
+    "nixe-notepad"
+  ],
+  "manifest": "Cargo.toml",
+  "prepare": [],
+  "binaries": []
+}
