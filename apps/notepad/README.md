@@ -25,7 +25,7 @@ from your Omarchy theme and fits a half-screen tile.
 ## Install
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/design-nexus/nixe/main/install.sh | bash -s -- notepad
+curl -fsSL https://raw.githubusercontent.com/design-nexus/nixe-notepad/main/install.sh | bash -s -- notepad
 ```
 
 It builds from source (installing Rust and GTK 4 with pacman if needed) and installs
